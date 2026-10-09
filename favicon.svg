@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Licenciatura en Finanzas">
-  <rect width="16" height="16" fill="#121612"/>
-  <rect x="2" y="11" width="3" height="3" fill="#0e7a4b"/>
-  <rect x="6.5" y="7" width="3" height="7" fill="#f3f0e6"/>
-  <rect x="11" y="3" width="3" height="11" fill="#0e7a4b"/>
+  <rect width="16" height="16" rx="3" fill="#121612"/>
+  <rect x="3" y="9" width="2.5" height="4" rx="0.4" fill="#f3f0e6"/>
+  <rect x="6.75" y="6.5" width="2.5" height="6.5" rx="0.4" fill="#f3f0e6"/>
+  <rect x="10.5" y="3.5" width="2.5" height="9.5" rx="0.4" fill="#0e7a4b"/>
 </svg>
