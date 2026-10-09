@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Partida">
-  <rect width="16" height="16" rx="3" fill="#0B1F4A"/>
-  <rect x="2" y="2" width="12" height="12" rx="1" fill="#F4EFE4"/>
-  <rect x="3" y="4" width="10" height="2" fill="#0B1F4A"/>
-  <rect x="7" y="4" width="2" height="8" fill="#0B1F4A"/>
-  <rect x="3" y="8" width="3" height="2" fill="#0E7C8C"/>
-  <rect x="10" y="8" width="3" height="2" fill="#A9782E"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Licenciatura en Finanzas">
+  <rect width="16" height="16" fill="#121612"/>
+  <rect x="2" y="11" width="3" height="3" fill="#0e7a4b"/>
+  <rect x="6.5" y="7" width="3" height="7" fill="#f3f0e6"/>
+  <rect x="11" y="3" width="3" height="11" fill="#0e7a4b"/>
 </svg>
