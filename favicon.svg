@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Partida">
+  <rect width="16" height="16" rx="3" fill="#0B1F4A"/>
+  <rect x="2" y="2" width="12" height="12" rx="1" fill="#F4EFE4"/>
+  <rect x="3" y="4" width="10" height="2" fill="#0B1F4A"/>
+  <rect x="7" y="4" width="2" height="8" fill="#0B1F4A"/>
+  <rect x="3" y="8" width="3" height="2" fill="#0E7C8C"/>
+  <rect x="10" y="8" width="3" height="2" fill="#A9782E"/>
+</svg>
